@@ -14,7 +14,7 @@ Diseñar un controlador que permita formular un protocolo de tratamiento para qu
 1. Calcular analiticamente la funcion de transferencia del sistema pulmonar.
 2. Establecer el modelo de ecuaciones integro-diferenciales.
 3. Determinar el error en estado estacionario y la estabilidad del sistema en lazo abierto.
-4. Construir el diagrama de bloques como se indica en la Figura 5.4.
+4. Construir el diagrama de bloques.
 5. Diseñar el controlador con Simulink utilizando el bloque PID Controller y la herramienta Tune para sintonizar los valores Ûptimos para cada una de las ganancias k_P, k_I y k_D.
 6. Ilustrar el cambio del áujo de aire y el volumen tidal en respuesta a las siguientes formas de onda de presion sinusoidal en la apertura de la vÌa aÈrea [P_ao(t)]:
    a) 15 respiraciones por minuto con una amplitud (A) de 2.5 cm H_2O, es decir, respiracion     
