@@ -9,7 +9,7 @@ Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, T
 Diseñar un controlador que permita formular un protocolo de tratamiento para que un paciente con enfisema (caso) presente la misma presiÛn alveolar que un individuo sano (control).
 
 ## Actividades
-1. Calcular analÌticamente la funciÛn de transferencia del sistema pulmonar.
+1. Calcular analiticamente la funcion de transferencia del sistema pulmonar.
 2. Establecer el modelo de ecuaciones integro-diferenciales.
 3. Determinar el error en estado estacionario y la estabilidad del sistema en lazo abierto.
 4. Construir el diagrama de bloques como se indica en la Figura 5.4.
